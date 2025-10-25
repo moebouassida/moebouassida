@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Moez Bouassida
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx5bmRoaW5wMXRxNzY5cDM0bnEyaGJybGExeXAybHc4NXY2NnJ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" width="400" alt="Coding at night" />
+  <img src="https://media.giphy.com/media/6arSJwtKZBtWCRzg6d/giphy.gif" width="400" alt="Coding at night" />
 </p>
 
 💡 **AI/ML Engineer** working at the intersection of **Medical Imaging, Digital Pathology & Vision-Language Models (VLMs)**  
@@ -32,31 +32,6 @@
 - 🖼 **MONAI** – Medical image processing, segmentation & pathology workflows  
 - ☁️ **AWS (Lambda, S3, DynamoDB)** – Serverless AI backends & scalable model deployment  
 - ⚙️ **Docker + FastAPI** – Containerized API serving for AI services
-
----
-
-## ⭐ Featured Projects
-
-🩺 **Medical AI & Pathology**  
-- Colorectal cancer tissue classification using SSL + ViTs  
-- Pathology VQA and vision-language model experiments  
-
-☁️ **Cloud & AI Deployment**  
-- Serverless AI image generation backend (AWS + FastAPI)  
-
-📌 *You can find these pinned below on my GitHub profile.*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moebouassida&theme=transparent" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moebouassida&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
 
 ---
 
