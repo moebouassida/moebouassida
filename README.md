@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Moez Bouassida
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Animation" />
+  <img height="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Animation" />
 </div>
 
 💡 **AI/ML Engineer** working at the intersection of **Medical Imaging, Digital Pathology & Vision-Language Models (VLMs)**  
@@ -9,10 +9,6 @@
 🧬 Currently working on a project **integrating histopathology and RNA-seq data** to develop AI models for biomedical research  
 🚀 Interested in **multimodal models, medical imaging, segmentation, VQA for pathology, and foundation/diffusion models**  
 🎓 Looking for a **PhD opportunity** in AI for medical imaging and multimodal biomedical data
-
----
-
-<img src="https://raw.githubusercontent.com/moebouassida/moebouassida/output/snake.svg" alt="Snake animation" />
 
 ---
 
