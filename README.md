@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Moez Bouassida
+# 👋 Hello
 
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Animation" />
