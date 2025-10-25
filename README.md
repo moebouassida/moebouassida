@@ -1,8 +1,8 @@
 # 👋 Hello, I’m Moez Bouassida
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx5bmRoaW5wMXRxNzY5cDM0bnEyaGJybGExeXAybHc4NXY2NnJ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" width="400" alt="Coding at night" />
-</p>
+<div align="center">
+  <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx5bmRoaW5wMXRxNzY5cDM0bnEyaGJybGExeXAybHc4NXY2NnJ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif"  />
+</div>
 
 💡 **AI/ML Engineer** working at the intersection of **Medical Imaging, Digital Pathology & Vision-Language Models (VLMs)**  
 🔬 Research internship focused on **automating Tumor-Stroma Ratio (TSR) scoring** in colorectal pathology using deep learning and digital pathology workflows  
