@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Moez Bouassida
 
 <p align="center">
-  <img src="https://media.giphy.com/media/6arSJwtKZBtWCRzg6d/giphy.gif" width="400" alt="Coding at night" />
+  <img src="https://giphy.com/gifs/5Zesu5VPNGJlmf" width="400" alt="Coding at night" />
 </p>
 
 💡 **AI/ML Engineer** working at the intersection of **Medical Imaging, Digital Pathology & Vision-Language Models (VLMs)**  
