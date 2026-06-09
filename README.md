@@ -7,7 +7,7 @@
 💡 **AI/ML Engineer** working at the intersection of **Medical Imaging, Digital Pathology & Vision-Language Models (VLMs)**  
 🔬 Research internship focused on **automating Tumor-Stroma Ratio (TSR) scoring** in colorectal pathology using deep learning and digital pathology workflows  
 🚀 Interested in **multimodal models, medical imaging, segmentation, VQA for pathology, and foundation/diffusion models**  
-🎓 Looking for a **PhD opportunity** in AI for medical imaging and multimodal biomedical data
+🎓 Looking for an **opportunity** in AI for medical imaging and multimodal biomedical data
 
 ---
 
